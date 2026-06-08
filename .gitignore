@@ -1,0 +1,16 @@
+# Ignore data and results folders (often large)
+data/
+results/
+
+# Ignore text outputs and reports
+*.txt
+*.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.vscode/
+.idea/
